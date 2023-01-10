@@ -1,5 +1,5 @@
-# Automated Testing Scripts
-A collection of scripts designed to help with testing products.
+# Automated Testing
+A collection of scripts and resources designed to help with testing products. Check the wiki for a collection of automated testing tooling and guides.
 
 ## install.sh
 
