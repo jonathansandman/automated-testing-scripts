@@ -1,7 +1,7 @@
 # Test Automation
 *A collection of scripts and resources designed to help test products.*
 
-Check the [wiki](https://github.com/jonathansandman/test-automation/wiki) for test automation tools and guides.
+Check the [wiki](https://github.com/jonathansandman/test-automation/wiki) for test automation tools and guides. See below for descriptions of available scripts.
 
 ## install.sh
 
